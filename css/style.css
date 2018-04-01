@@ -1,0 +1,30 @@
+/*HOME SECTION */
+
+#home-cover {
+    height: 100%;
+
+    background-image: url("../images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#my-image img
+{
+	
+	width: 250px;
+	height: 250px;
+	vertical-align: middle;
+	border-style: none;
+}
+
+#home-content-box-inner {
+
+  
+    vertical-align: middle;
+    text-align: center;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
